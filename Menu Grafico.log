@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Equipo\source\repos\Menu Grafico\MyForm.cpp(5,32): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+LINK : error LNK2001: sÝmbolo externo _Main sin resolver
+C:\Users\Equipo\source\repos\Menu Grafico\Debug\Menu Grafico.exe : fatal error LNK1120: 1 externos sin resolver
